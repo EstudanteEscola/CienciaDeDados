@@ -60,8 +60,3 @@ async function quantidadeEstudantes() {
 
 quantidadeEstudantes()
 
-digitar  os links abaixo , no HTML , após o fechamento da tag </footer>
-
-<script type="module" src="graficos/common.js"></script>
- <script type="module" src="graficos/informacoesGlobais.js"></script>
-  <script type="module" src="graficos/quantidadeEstudantes.js"></script>
